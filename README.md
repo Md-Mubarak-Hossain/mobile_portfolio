@@ -103,20 +103,14 @@ To run tests, run the following command:
 >cd Hello-World
 >code .
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 ## 👥 Authors <a name="authors"></a>
 
 > Mention all of the collaborators of this project.
 👤 **Md Mubarak Hossain**
-
 - GitHub: [@githubhandle](https://github.com/githubhandle)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
