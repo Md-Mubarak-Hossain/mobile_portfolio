@@ -91,64 +91,37 @@ Install this project with:
 ### Usage
 
 To run the project, execute the following command:
->git clone https://github.com/Md-Mubarak-Hossain/Hello-World.git
+>git clone https://github.com/Md-Mubarak-Hossain/mobile_portfolio.git
 >cd Hello-World
 >code .
 >run
-
 ### Run tests
-
 To run tests, run the following command:
->git clone https://github.com/Md-Mubarak-Hossain/Hello-World.git
+>git clone https://github.com/Md-Mubarak-Hossain/mobile_portfolio.git
 >cd Hello-World
 >code .
-
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 ## 👥 Authors <a name="authors"></a>
-
 > Mention all of the collaborators of this project.
 👤 **Md Mubarak Hossain**
-
 - GitHub: [@githubhandle](https://github.com/githubhandle)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 ## 🔭 Future Features <a name="future-features"></a>
-
 > Features  project.
 - [ ] **Small Project**
 - [ ] **Interesting**
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 ## 🤝 Contributing <a name="contributing"></a>
-
 Contributions, issues, and feature requests are welcome!
-
 Feel free to check the [issues page](../../issues/).
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 ## ⭐️ Show your support <a name="support"></a>
-
 > Write a message to encourage readers to support your project
 If you like this project small lighwight project.
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
 > Give credit to everyone who inspired your codebase.
 I would like to thank who like this project.
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
