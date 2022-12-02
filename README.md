@@ -102,7 +102,6 @@ To run tests, run the following command:
 >git clone https://github.com/Md-Mubarak-Hossain/Hello-World.git
 >cd Hello-World
 >code .
->run
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
